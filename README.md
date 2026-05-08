@@ -30,7 +30,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/your-github">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -183,7 +183,8 @@
 ✔ MongoDB Database  
 ✔ Responsive UI  
 
-**Tech Stack:** React.js, Node.js, Socket.io, MongoDB
+**Tech Stack:** 
+React.js, Node.js, Socket.io, MongoDB
 
 </td>
 
@@ -195,7 +196,8 @@
 ✔ Applicant Tracking  
 ✔ Admin Panel  
 
-**Tech Stack:** HTML, CSS, JS, PHP, MySQL
+**Tech Stack:** 
+HTML, CSS, JS, PHP, MySQL
 
 </td>
 </tr>
