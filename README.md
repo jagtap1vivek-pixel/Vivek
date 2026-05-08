@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" top="-20" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Computer Engineering Student  
 - 🌱 Currently learning **Java DSA, Backend Development & System Design**  
@@ -188,6 +188,7 @@
 </td>
 
 <td width="50%">
+
 ## 🏢 EMS Hiring Website
 ✔ Resume Upload System  
 ✔ Organization Dashboard  
@@ -199,14 +200,6 @@
 </td>
 </tr>
 </table>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night" />
-</p>
 
 ---
 
