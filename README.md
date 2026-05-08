@@ -47,26 +47,123 @@
 
 # 🚀 Tech Stack
 
-## 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
-</p>
+<table align="center">
+<tr>
 
-## ⚙ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
 
-## 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
 
-## 🛠 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React JS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redux" width="55"/><br>
+<b>Redux</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>
+<b>Bootstrap</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node JS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<b>Express JS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+<b>MongoDB</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<b>C</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+<b>C++</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<b>Postman</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
+<b>Firebase</b>
+</td>
+
+</tr>
+</table>
 ---
 
 # 📌 Featured Projects
