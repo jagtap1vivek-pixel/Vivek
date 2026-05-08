@@ -11,8 +11,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" top="-20" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Computer Engineering Student  
 - 🌱 Currently learning **Java DSA, Backend Development & System Design**  
@@ -30,7 +29,7 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="left" gap="10">
 <a href="https://github.com/your-github">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
