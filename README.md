@@ -1,89 +1,120 @@
-# Vivek
 <h1 align="center">Hi 👋, I'm Vivek Jagtap</h1>
-<h3 align="center">Full Stack Web Developer | Java DSA Learner | React Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+🚀 Full Stack Web Developer | Java DSA Learner | React Developer
+</h3>
 
-- 🌱 I’m currently learning **Java DSA, Full Stack Development, System Design**
-- 💻 I love building **React.js Projects & Web Applications**
-- 🎯 Goal: **12-15 LPA Software Engineer Role**
-- 📚 Currently improving **DSA + Development Skills**
-- ⚡ Fun fact: I love creating modern UI designs
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+JS+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Future+Software+Engineer" />
+</p>
 
 ---
 
-## 🚀 Connect with me
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Computer Engineering Student  
+- 🌱 Currently learning **Java DSA, Backend Development & System Design**  
+- 💻 Building modern **Full Stack Web Applications**  
+- 🎯 Targeting **12-15 LPA Software Engineer Roles**  
+- ⚡ Passionate about UI/UX and scalable applications  
+- 📚 Solving DSA problems daily  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/your-github">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/your-github" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/your-instagram" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" />
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/your-instagram">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
+## 🎨 Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
 </p>
 
-### Backend
+## ⚙ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### Programming Languages
+## 💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
 </p>
 
-### Tools & Platforms
+## 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 # 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 💬 WhatsApp Web Clone
-- Real-time chat application using React.js and Socket.io
-- Authentication system with MongoDB
-- Responsive WhatsApp-like UI
+✔ Real-time Chat Application  
+✔ Authentication System  
+✔ MongoDB Database  
+✔ Responsive UI  
+
+**Tech Stack:** React.js, Node.js, Socket.io, MongoDB
+
+</td>
+
+<td width="50%">
 
 ## 🏢 EMS Hiring Website
-- Applicant & Organization Dashboard
-- Resume Upload Feature
-- Admin Management System
+✔ Resume Upload System  
+✔ Organization Dashboard  
+✔ Applicant Tracking  
+✔ Admin Panel  
 
-## 📚 Java DSA Practice
-- Arrays, Linked Lists, Trees, Graphs
-- LeetCode & Coding Questions Solutions
+**Tech Stack:** HTML, CSS, JS, PHP, MySQL
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
-</p>
+---
+
+# 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,19 +122,30 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night" />
 </p>
 
 ---
 
 # 🏆 Achievements
-- 🎓 Computer Engineering Student
-- 💻 Full Stack Web Developer
-- 🚀 React.js Projects Creator
-- 📈 DSA & Placement Preparation
+
+🏅 Frontend Web Developer Intern  
+🏅 Built Multiple Full Stack Projects  
+🏅 Learning Advanced DSA in Java  
+🏅 Active GitHub Contributor  
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+# 📚 Current Focus
+
+```javascript
+const vivek = {
+    code: ["HTML", "CSS", "JavaScript", "Java", "React"],
+    technologies: {
+        frontend: ["React.js", "Redux", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "MySQL"]
+    },
+    currentFocus: "Full Stack Development + DSA",
+    goal: "Software Engineer @ Product Based Company"
+};
