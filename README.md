@@ -23,6 +23,11 @@
 
 ---
 
+
+
+
+
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -183,7 +188,6 @@
 </td>
 
 <td width="50%">
-
 ## 🏢 EMS Hiring Website
 ✔ Resume Upload System  
 ✔ Organization Dashboard  
@@ -198,38 +202,11 @@
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🔥 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night" />
 </p>
-
----
-
-# 🏆 Achievements
-
-🏅 Frontend Web Developer Intern  
-🏅 Built Multiple Full Stack Projects  
-🏅 Learning Advanced DSA in Java  
-🏅 Active GitHub Contributor  
 
 ---
 
